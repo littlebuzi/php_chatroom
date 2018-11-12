@@ -4,9 +4,9 @@
 
 #### 聊天界面
 
-![show](D:\phpStudy\WWW\chatroom\images\show.png)
+![image](https://github.com/meidawei/php_chatroom/blob/master/images/show.png)
 
-![show2](D:\phpStudy\WWW\chatroom\images\show2.png)
+![image](https://github.com/meidawei/php_chatroom/blob/master/images/show2.png)
 
 很呆萌很实用很好玩有木有哈哈哈哈，
 
@@ -14,11 +14,11 @@
 
 #### 展示所有群成员
 
-![show3](D:\phpStudy\WWW\chatroom\images\show3.png)
+![image](https://github.com/meidawei/php_chatroom/blob/master/images/show3.png)
 
 #### 登录注册页面（怎一个简洁了得）
 
-![show4](D:\phpStudy\WWW\chatroom\images\show4.png)
+![image](https://github.com/meidawei/php_chatroom/blob/master/images/show4.png)
 
 ## 运行方式
 
